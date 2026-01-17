@@ -9,7 +9,7 @@
 ## ✨ What is this?
 
 `opencode-dev-bootstrap` is an opinionated, AI-assisted tool that turns a **brand new machine** into a **ready-to-code dev environment** with a single command.
-
+[\u67e5\u770b\u4e2d\u6587 README](README_zh-CN.md)\n\n
 It uses **Opencode** as the AI orchestrator and a set of **bootstrap skills** (best-practice recipes) to:
 
 - Detect your OS and basic state
